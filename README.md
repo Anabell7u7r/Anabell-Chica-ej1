@@ -9,3 +9,9 @@ En marzo de 2017, anunció que su primer sencillo en solitario «Sign of the Tim
 
 ###  HS1
 ![ hs1 ](\Users\hp\OneDrive\Escritorio\hs1.jpg)
+
+### Fine Line
+![ fineline ]("C:\Users\hp\OneDrive\Escritorio\fineline.png")
+
+### Harry's House
+![ harry'shouse ]("C:\Users\hp\OneDrive\Escritorio\harry'shouse.png")
