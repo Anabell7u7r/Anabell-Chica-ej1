@@ -8,4 +8,4 @@ En febrero de 2016, Styles abandonó Modest Management, la empresa que represent
 En marzo de 2017, anunció que su primer sencillo en solitario «Sign of the Times» se lanzaría el 7 de abril. La canción alcanzó el número uno en la lista de sencillos del Reino Unido y el número cuatro en el Billboard Hot 100. Rolling Stone clasificó el tema como la mejor canción de 2017. Adicionalmente, el vídeo musical ganó el Brit Award, como el mejor vídeo de un artista británico. En abril, fue un invitado musical en Saturday Night Live en los Estados Unidos e hizo su debut televisivo en The Graham Norton Show.
 
 ###  HS1
-![ HS1 ]("C:\Users\hp\OneDrive\Escritorio\hs1.jpg")
+![ hs1 ](\Users\hp\OneDrive\Escritorio\hs1.jpg)
